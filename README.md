@@ -1,1 +1,2 @@
-# Authentication server with JWT and Spring Security
+# Authentication server 
+Authentication server with JWT and Spring Security
